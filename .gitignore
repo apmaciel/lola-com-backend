@@ -3,6 +3,7 @@ node_modules/
 npm-debug.log*
 
 # React
+.env
 build/
 .DS_Store
 
